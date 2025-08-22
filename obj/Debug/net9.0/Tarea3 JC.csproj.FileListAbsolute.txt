@@ -1,0 +1,96 @@
+C:\Users\Jefry\Desktop\Tarea3 JC\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Jefry\Desktop\Tarea3 JC\bin\Debug\net9.0\appsettings.json
+C:\Users\Jefry\Desktop\Tarea3 JC\bin\Debug\net9.0\Tarea3 JC.staticwebassets.runtime.json
+C:\Users\Jefry\Desktop\Tarea3 JC\bin\Debug\net9.0\Tarea3 JC.staticwebassets.endpoints.json
+C:\Users\Jefry\Desktop\Tarea3 JC\bin\Debug\net9.0\Tarea3 JC.exe
+C:\Users\Jefry\Desktop\Tarea3 JC\bin\Debug\net9.0\Tarea3 JC.deps.json
+C:\Users\Jefry\Desktop\Tarea3 JC\bin\Debug\net9.0\Tarea3 JC.runtimeconfig.json
+C:\Users\Jefry\Desktop\Tarea3 JC\bin\Debug\net9.0\Tarea3 JC.dll
+C:\Users\Jefry\Desktop\Tarea3 JC\bin\Debug\net9.0\Tarea3 JC.pdb
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\Tarea3 JC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\Tarea3 JC.AssemblyInfoInputs.cache
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\Tarea3 JC.AssemblyInfo.cs
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\Tarea3 JC.csproj.CoreCompileInputs.cache
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\Tarea3 JC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\Tarea3 JC.RazorAssemblyInfo.cache
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\Tarea3 JC.RazorAssemblyInfo.cs
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\scopedcss\bundle\Tarea3 JC.styles.css
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\scopedcss\projectbundle\Tarea3 JC.bundle.scp.css
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\epfdhguuxo-b9sayid5wm.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\3q71mqnxxy-61n19gt1b8.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\blrork554c-xtxxf3hu2r.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\y2wd6uvxuc-bqjiyaj88i.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\w2b43y4wng-c2jlpeoesf.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\awpbvwr4dw-erw9l3u2r3.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\vl5jozex0t-aexeepp0ev.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\30t0uq9uut-d7shbmvgxk.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\np4t20rkai-ausgxo2sd3.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\7tap4xtu4r-k8d9w2qqmf.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\bgoh7e2gm8-cosvhxvwiu.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\fphwt4myt6-ub07r2b239.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\7ui1juz0es-fvhpjtyr6v.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\ch4c234fsr-b7pk76d08c.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\2elmi2tt8g-fsbi9cje9m.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\2ub1la5b6o-rzd6atqjts.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\ccsdq8y4ht-ee0r1s7dh0.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\v03kd3l13p-dxx9fxp4il.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\vtydjwpbgz-jd9uben2k1.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\89df3giy0b-khv3u5hwcm.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\sgzldmuxut-r4e9w2rdcm.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\447t3709hw-lcd1t2u6c8.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\9ucgyohrn7-c2oey78nd0.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\5030pkqin3-tdbxkamptv.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\w7jt5vwt3i-j5mq2jizvt.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\by4i3lliaf-06098lyss8.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\gokwatbkd4-nvvlpmu67g.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\zmwmfsxqdq-s35ty4nyc5.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\1hb5kx67pe-pj5nd1wqec.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\9s6yj13anw-46ein0sx1k.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\k9suegnj6n-v0zj4ognzu.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\afr7sqv90s-37tfw0ft22.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\77mx401ota-hrwsygsryq.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\72pd25wjqj-pk9g2wxc8p.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\o513buqtgq-ft3s53vfgj.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\5sw4202l9q-6cfz1n2cew.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\sq2ptb5e8n-6pdc2jztkx.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\qh1pnstauu-493y06b0oq.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\v2fxvhn7pt-iovd86k7lj.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\7bup25k2fp-vr1egmr9el.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\kayyvfowro-kbrnm935zg.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\y3tzavc8g5-jj8uyg4cgr.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\e9piikzxkp-y7v9cxd14o.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\itcrf9i935-notf2xhcfb.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\tn201uh02f-h1s4sie4z3.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\4666ev1uwc-63fj8s7r0e.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\kejboqmfs7-0j3bgjxly4.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\qtl2hgi5ez-47otxtyo56.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\vudcc3sgok-4v8eqarkd7.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\kyegyvnpnd-356vix0kms.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\c3z5uzzlym-83jwlth58m.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\nuqcvag7p0-mrlpezrjn3.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\wds30xw26h-lzl9nlhx6b.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\neqd78g6m1-ag7o75518u.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\jf383tv7qe-x0q3zqp4vz.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\4dyyhik373-0i3buxo5is.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\1okp7oduvr-o1o13a6vjx.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\t8s3ize0bq-ttgo8qnofa.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\2hu1zkf79a-2z0ns9nrw6.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\nr0u2chgln-muycvpuwrr.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\c0ywnir9hw-87fc7y1x7t.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\mlbmmzlj16-mlv21k5csn.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\ofijoz3j2b-4sd4ubfj6x.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\compressed\0alp32npun-4sd4ubfj6x.gz
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\Tarea3 JC.dll
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\refint\Tarea3 JC.dll
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\Tarea3 JC.pdb
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\Tarea3 JC.genruntimeconfig.cache
+C:\Users\Jefry\Desktop\Tarea3 JC\obj\Debug\net9.0\ref\Tarea3 JC.dll
